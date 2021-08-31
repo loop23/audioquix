@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   # spec.executables   = ['audioquiz']
   spec.require_paths = ["lib", 'ext']
 
-  spec.add_development_dependency "bundler", "~> 2.1.4"
+  spec.add_development_dependency "bundler", "~> 2.2.10"
   spec.add_development_dependency "rake", "~> 12.3.3"
   spec.add_development_dependency "rake-compiler"
   spec.add_development_dependency "minitest", "~> 5.0"
