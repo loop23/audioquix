@@ -1,8 +1,13 @@
 # Audioquiz
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/audioquiz`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is loop trying to interface with ffi-portaudio.
 
-TODO: Delete this and the text above, and describe your gem
+It has a couple of scripts in bin that do just that.
+
+It also has some C files relating to plucked syntesis
+(/* pluck.c - elementary waveguide simulation of plucked strings - JOS 6/6/92 */).
+
+Seems not really to have anything to do with audioquizzes!
 
 ## Installation
 
